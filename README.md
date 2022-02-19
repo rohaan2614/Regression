@@ -13,3 +13,12 @@ Regression Concepts:
 Reference Sources:
   1. Python Data Science Handbook by Jake VanderPlas
   2. Kaggle Project [Page](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
+
+Summary:
+  1. Apply LinearRegression() to develop linear model. Intercept & Slope in model parameters.
+  2. LinearRegression() can handle multidimentional inputs as well. Just replace the input array with a matrix.
+  3. LinearRegression() model can be extend to non-linear relationships via a *Basis Function*. Basis functions transform data.
+  4. The best way to apply a basis function is via a pipeline.
+
+Questions:
+  1. How to figure out which Regression to apply?
